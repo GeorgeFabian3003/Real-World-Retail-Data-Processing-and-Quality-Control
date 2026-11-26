@@ -11,7 +11,7 @@ I also developed 15 formula-driven quality control checks, all of which passed. 
 By the end of the exercise, I had retained 534,129 records (98.56% of the original dataset), excluded 7,780 records (1.44%) with documented reasons, and identified 12,240 retained records requiring further review.
 The project gave me practical experience in handling large datasets, investigating data quality issues, applying cleaning rules, managing exceptions, and presenting results through Excel reports and dashboards. It also demonstrates the importance of checking data carefully and keeping a clear record of changes before using it for business analysis and decision-making.
 
-Dataset Source and Citation
+Dataset Source and Citation:
 The project uses the Online Retail dataset donated by Daqing Chen and published through the UCI Machine Learning Repository.
 
 Dataset: Online Retail (2015)
@@ -21,9 +21,9 @@ Dataset: Access and download the Online Retail dataset
 DOI: https://doi.org/10.24432/C5BW33
 Licence: Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-Academic Reference
+Academic Reference:
 Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33
 
-Related Research
+Related Research:
 Chen, D., Sain, S. L., & Guo, K. (2012). Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining. Journal of Database Marketing & Customer Strategy Management, 19(3).
 
