@@ -2,7 +2,7 @@
 Retail data processing, cleaning, validation and quality control using Microsoft Excel
 
 
-PROJECT OVERVIEW
+
 For this project, I worked with 541,909 sales transactions from a UK-based online gift retailer. Using Microsoft Excel, I examined the original dataset, identified data quality problems, and worked on preparing the records for reliable business reporting and analysis.
 During the initial assessment, I found several issues, including missing customer information, duplicate transactions, inconsistent product descriptions, invalid prices, unusual quantities, and inconsistent country names.
 I cleaned and standardised the data using clearly defined rules. Rather than removing every record that appeared unusual, I assessed the issues individually and decided whether each record should be retained, corrected, flagged for further review or excluded. I documented these decisions and maintained the original row numbers so that records could be traced back to the source dataset.
